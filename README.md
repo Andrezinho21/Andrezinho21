@@ -1,13 +1,6 @@
-- 👋 Hi, I’m @Andrezinho21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Andrezinho21/Andrezinho21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-![Uploading image.png…]()
+- 👋 olá,me chamo André Wieleski
+- 👀 Eu gosto de animais, de ler, e de muitas outras coisas
+- 🌱 Sempre gosto de aprender coisas novas
+- 💞️ Eu quero ter um futuro trabalhando em uma area de economia ou como corretor de imoveis
+- 📫 Como me encontrar?
+- Instagram:@andre_wieleski
